@@ -32,5 +32,5 @@
 
 <h3>Sample Outputs</h3>
 
-<h2>Bar graph of feature importance</h2>
-<h2>Actual vs Predicted car prices plot</h2>
+<h4>Bar graph of feature importance</h4>
+<h4>Actual vs Predicted car prices plot</h4>
